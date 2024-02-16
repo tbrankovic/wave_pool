@@ -1,5 +1,5 @@
 # Wave Pool
-A python waveform generator intended for research.  
+A python waveform generator made for end of studies research project.
 <img width="1439" alt="Screenshot 2024-02-16 at 8 04 52 PM" src="https://github.com/tbrankovic/wave_pool/assets/79591971/89bf7bf7-e847-4987-9ff2-0a07b9a2bf33">
 
 
