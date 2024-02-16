@@ -4,8 +4,7 @@ A python waveform generator made for end of studies research project.
 
 
 ## Running the project
-To run the project, you can run `main.py`  
-<img width="240" alt="Screenshot 2024-02-16 at 8 02 04 PM" src="https://github.com/tbrankovic/wave_pool/assets/79591971/0fe9b8df-7ece-4904-b38b-3020eafb6776">
+To run the project, you can run `main.py`.
 
 ## Selecting output file
 1. in `WaveformFrame.py`, in the save waveform file, you can change the output filepath:
